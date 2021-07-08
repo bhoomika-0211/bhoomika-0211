@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhoomika-0211
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking for project for practice.
+- 🌱 I’m currently learning web development.
 - 📫 My email is bhoomikach02@gmail.com
 
 <!---
